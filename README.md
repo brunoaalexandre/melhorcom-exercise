@@ -18,14 +18,15 @@ So, that's all, folks! ❤️
 # What to improve?
 ## The application has some improvements to be made, among them:
   - Responsivity
-  - The login method
-  - Implement edit function of the penal codes.
+  - The update function
+  - Create some hooks to register, edit, delete and update.
+  - Use useMemo to better optimization.
 
 # How to install
 
 ### Clone the repository
 ```html
-  git clone https://github.com/brunoaalexandre/cidadealta-exercise.git
+  git clone https://github.com/brunoaalexandre/melhorcom-exercise.git
 ```
 
 ### Install all dependencies
